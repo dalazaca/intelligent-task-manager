@@ -2,7 +2,7 @@
 
 Bienvenido al Gestor de Tareas, una moderna y robusta Single Page Application (SPA) diseñada para una gestión eficiente de tus actividades diarias. Construida con un stack tecnológico de vanguardia, esta aplicación demuestra las mejores prácticas en desarrollo frontend, ofreciendo una experiencia de usuario fluida y reactiva.
 
-## ✨ Características Destacadas
+## ✨ Características Destacadas Holis
 
 - **Gestión Completa de Tareas (CRUD)**: Crea, lee, actualiza y elimina tareas de forma intuitiva.
 - **Filtrado Dinámico**: Filtra tareas por estado (`Pendiente`, `En progreso`, `Completada`) y por prioridad (`Baja`, `Media`, `Alta`, `Urgente`).
